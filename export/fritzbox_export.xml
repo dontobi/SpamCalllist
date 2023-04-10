@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phonebooks>
+    <phonebook name="Test">
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Ausland - +1...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">+16465535819</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>11</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Ausland - +3...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">+302809797804</number>
+                <number type="work" id="0" vanity="" prio="1">+302820487834</number>
+                <number type="work" id="0" vanity="" prio="1">+302843371996</number>
+                <number type="work" id="0" vanity="" prio="1">+3185125632</number>
+                <number type="work" id="0" vanity="" prio="1">+318512563295</number>
+                <number type="work" id="0" vanity="" prio="1">+3225808922</number>
+                <number type="work" id="0" vanity="" prio="1">+3228652391</number>
+                <number type="work" id="0" vanity="" prio="1">+3250660514</number>
+                <number type="work" id="0" vanity="" prio="1">+3251019698</number>
+                <number type="work" id="0" vanity="" prio="1">+3257495739</number>
+                <number type="work" id="0" vanity="" prio="1">+33235869346</number>
+                <number type="work" id="0" vanity="" prio="1">+33491424812</number>
+                <number type="work" id="0" vanity="" prio="1">+33601852718</number>
+                <number type="work" id="0" vanity="" prio="1">+33611081298</number>
+                <number type="work" id="0" vanity="" prio="1">+33613306535</number>
+                <number type="work" id="0" vanity="" prio="1">+33616077664</number>
+                <number type="work" id="0" vanity="" prio="1">+33616209372</number>
+                <number type="work" id="0" vanity="" prio="1">+33620603945</number>
+                <number type="work" id="0" vanity="" prio="1">+33620896394</number>
+                <number type="work" id="0" vanity="" prio="1">+33622509961</number>
+                <number type="work" id="0" vanity="" prio="1">+33623778908</number>
+                <number type="work" id="0" vanity="" prio="1">+33624252112</number>
+                <number type="work" id="0" vanity="" prio="1">+33626411705</number>
+                <number type="work" id="0" vanity="" prio="1">+33627736259</number>
+                <number type="work" id="0" vanity="" prio="1">+33633827026</number>
+                <number type="work" id="0" vanity="" prio="1">+33663746355</number>
+                <number type="work" id="0" vanity="" prio="1">+33771441679</number>
+                <number type="work" id="0" vanity="" prio="1">+33777165185</number>
+                <number type="work" id="0" vanity="" prio="1">+33777254174</number>
+                <number type="work" id="0" vanity="" prio="1">+33954907995</number>
+                <number type="work" id="0" vanity="" prio="1">+347342549434</number>
+                <number type="work" id="0" vanity="" prio="1">+35635874547</number>
+                <number type="work" id="0" vanity="" prio="1">+35725328935</number>
+                <number type="work" id="0" vanity="" prio="1">+35924942791</number>
+                <number type="work" id="0" vanity="" prio="1">+39041714653</number>
+                <number type="work" id="0" vanity="" prio="1">+39081994846</number>
+                <number type="work" id="0" vanity="" prio="1">+393497463085</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>12</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Ausland - +4...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">+16465535819</number>
+                <number type="work" id="0" vanity="" prio="1">+41215459849</number>
+                <number type="work" id="0" vanity="" prio="1">+420234280629</number>
+                <number type="work" id="0" vanity="" prio="1">+4322464434</number>
+                <number type="work" id="0" vanity="" prio="1">+4351258078217</number>
+                <number type="work" id="0" vanity="" prio="1">+43661331784</number>
+                <number type="work" id="0" vanity="" prio="1">+436769182388</number>
+                <number type="work" id="0" vanity="" prio="1">+441689814399</number>
+                <number type="work" id="0" vanity="" prio="1">+442038073907</number>
+                <number type="work" id="0" vanity="" prio="1">+442073407130</number>
+                <number type="work" id="0" vanity="" prio="1">+447868726050</number>
+                <number type="work" id="0" vanity="" prio="1">+447873024449</number>
+                <number type="work" id="0" vanity="" prio="1">+447888882946</number>
+                <number type="work" id="0" vanity="" prio="1">+447888886071</number>
+                <number type="work" id="0" vanity="" prio="1">+447904689214</number>
+                <number type="work" id="0" vanity="" prio="1">+447944466005</number>
+                <number type="work" id="0" vanity="" prio="1">+447979664723</number>
+                <number type="work" id="0" vanity="" prio="1">+48571470538</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>13</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Ausland - +6...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">+6768755316</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>14</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Ausland - +9...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">+917065081610</number>
+                <number type="work" id="0" vanity="" prio="1">+917838705479</number>
+                <number type="work" id="0" vanity="" prio="1">+919355616335</number>
+                <number type="work" id="0" vanity="" prio="1">+96892612742</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>15</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Inland - 01...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">015210923002</number>
+                <number type="work" id="0" vanity="" prio="1">015211226539</number>
+                <number type="work" id="0" vanity="" prio="1">015213213516</number>
+                <number type="work" id="0" vanity="" prio="1">015213809423</number>
+                <number type="work" id="0" vanity="" prio="1">015214547081</number>
+                <number type="work" id="0" vanity="" prio="1">015218442706</number>
+                <number type="work" id="0" vanity="" prio="1">015231443432</number>
+                <number type="work" id="0" vanity="" prio="1">015733250709</number>
+                <number type="work" id="0" vanity="" prio="1">015735980683</number>
+                <number type="work" id="0" vanity="" prio="1">015777667153</number>
+                <number type="work" id="0" vanity="" prio="1">01633404699</number>
+                <number type="work" id="0" vanity="" prio="1">01639560410</number>
+                <number type="work" id="0" vanity="" prio="1">01723296714</number>
+                <number type="work" id="0" vanity="" prio="1">01724148371</number>
+                <number type="work" id="0" vanity="" prio="1">01724303492</number>
+                <number type="work" id="0" vanity="" prio="1">01729536887</number>
+                <number type="work" id="0" vanity="" prio="1">01733275642</number>
+                <number type="work" id="0" vanity="" prio="1">01739965826</number>
+                <number type="work" id="0" vanity="" prio="1">017668779853</number>
+                <number type="work" id="0" vanity="" prio="1">017684436870</number>
+                <number type="work" id="0" vanity="" prio="1">017693709806</number>
+                <number type="work" id="0" vanity="" prio="1">017693715798</number>
+                <number type="work" id="0" vanity="" prio="1">01784493212</number>
+                <number type="work" id="0" vanity="" prio="1">01785930471</number>
+                <number type="work" id="0" vanity="" prio="1">0179733003</number>
+                <number type="work" id="0" vanity="" prio="1">0180536002201</number>
+                <number type="work" id="0" vanity="" prio="1">0180536002202</number>
+                <number type="work" id="0" vanity="" prio="1">0180536002203</number>
+                <number type="work" id="0" vanity="" prio="1">0180536002204</number>
+                <number type="work" id="0" vanity="" prio="1">0180536002205</number>
+                <number type="work" id="0" vanity="" prio="1">0180536002206</number>
+                <number type="work" id="0" vanity="" prio="1">0180536002207</number>
+                <number type="work" id="0" vanity="" prio="1">0180536002208</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>21</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Inland - 02...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">020121960850</number>
+                <number type="work" id="0" vanity="" prio="1">02018395880</number>
+                <number type="work" id="0" vanity="" prio="1">020192234201</number>
+                <number type="work" id="0" vanity="" prio="1">020194625295</number>
+                <number type="work" id="0" vanity="" prio="1">020249371231</number>
+                <number type="work" id="0" vanity="" prio="1">0210832481</number>
+                <number type="work" id="0" vanity="" prio="1">02111851555</number>
+                <number type="work" id="0" vanity="" prio="1">02111851579</number>
+                <number type="work" id="0" vanity="" prio="1">021120497020</number>
+                <number type="work" id="0" vanity="" prio="1">021136189071</number>
+                <number type="work" id="0" vanity="" prio="1">021154590836</number>
+                <number type="work" id="0" vanity="" prio="1">02116742031</number>
+                <number type="work" id="0" vanity="" prio="1">02117559990</number>
+                <number type="work" id="0" vanity="" prio="1">021332463890</number>
+                <number type="work" id="0" vanity="" prio="1">0220152070</number>
+                <number type="work" id="0" vanity="" prio="1">022165088561</number>
+                <number type="work" id="0" vanity="" prio="1">022166951483</number>
+                <number type="work" id="0" vanity="" prio="1">022166951484</number>
+                <number type="work" id="0" vanity="" prio="1">0228338160</number>
+                <number type="work" id="0" vanity="" prio="1">02283822567</number>
+                <number type="work" id="0" vanity="" prio="1">023149498861</number>
+                <number type="work" id="0" vanity="" prio="1">02317257820</number>
+                <number type="work" id="0" vanity="" prio="1">0241927864</number>
+                <number type="work" id="0" vanity="" prio="1">024195230101</number>
+                <number type="work" id="0" vanity="" prio="1">02501802420</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>22</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Inland - 03...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">030138839942</number>
+                <number type="work" id="0" vanity="" prio="1">03020181800</number>
+                <number type="work" id="0" vanity="" prio="1">03021446630</number>
+                <number type="work" id="0" vanity="" prio="1">030214802532</number>
+                <number type="work" id="0" vanity="" prio="1">03022187165</number>
+                <number type="work" id="0" vanity="" prio="1">03023320430</number>
+                <number type="work" id="0" vanity="" prio="1">03025545764</number>
+                <number type="work" id="0" vanity="" prio="1">030700107206</number>
+                <number type="work" id="0" vanity="" prio="1">030767582729</number>
+                <number type="work" id="0" vanity="" prio="1">030767582730</number>
+                <number type="work" id="0" vanity="" prio="1">030767582731</number>
+                <number type="work" id="0" vanity="" prio="1">030767582732</number>
+                <number type="work" id="0" vanity="" prio="1">030767582740</number>
+                <number type="work" id="0" vanity="" prio="1">03080098648</number>
+                <number type="work" id="0" vanity="" prio="1">03092702890</number>
+                <number type="work" id="0" vanity="" prio="1">032211074701</number>
+                <number type="work" id="0" vanity="" prio="1">032211074738</number>
+                <number type="work" id="0" vanity="" prio="1">032211074749</number>
+                <number type="work" id="0" vanity="" prio="1">032211076762</number>
+                <number type="work" id="0" vanity="" prio="1">032211076787</number>
+                <number type="work" id="0" vanity="" prio="1">032217214332</number>
+                <number type="work" id="0" vanity="" prio="1">0341496292000</number>
+                <number type="work" id="0" vanity="" prio="1">03419950255</number>
+                <number type="work" id="0" vanity="" prio="1">03456034578</number>
+                <number type="work" id="0" vanity="" prio="1">037947278</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>23</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Inland - 04...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">04013374151</number>
+                <number type="work" id="0" vanity="" prio="1">0402541368</number>
+                <number type="work" id="0" vanity="" prio="1">040299992020</number>
+                <number type="work" id="0" vanity="" prio="1">04033465931</number>
+                <number type="work" id="0" vanity="" prio="1">040431970794</number>
+                <number type="work" id="0" vanity="" prio="1">0406460460</number>
+                <number type="work" id="0" vanity="" prio="1">040756748042</number>
+                <number type="work" id="0" vanity="" prio="1">041819474940</number>
+                <number type="work" id="0" vanity="" prio="1">042161073309</number>
+                <number type="work" id="0" vanity="" prio="1">044289062</number>
+                <number type="work" id="0" vanity="" prio="1">0451160897620</number>
+                <number type="work" id="0" vanity="" prio="1">047729127</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>24</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Inland - 05...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">051123562930</number>
+                <number type="work" id="0" vanity="" prio="1">0521380710</number>
+                <number type="work" id="0" vanity="" prio="1">052198994272</number>
+                <number type="work" id="0" vanity="" prio="1">0541760095</number>
+                <number type="work" id="0" vanity="" prio="1">054231490</number>
+                <number type="work" id="0" vanity="" prio="1">0589354638</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>25</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Inland - 06...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">061171200606</number>
+                <number type="work" id="0" vanity="" prio="1">061195003199</number>
+                <number type="work" id="0" vanity="" prio="1">0612456484</number>
+                <number type="work" id="0" vanity="" prio="1">061448091042</number>
+                <number type="work" id="0" vanity="" prio="1">061579149288</number>
+                <number type="work" id="0" vanity="" prio="1">061965771952</number>
+                <number type="work" id="0" vanity="" prio="1">061965779846</number>
+                <number type="work" id="0" vanity="" prio="1">0620233385</number>
+                <number type="work" id="0" vanity="" prio="1">0620264354</number>
+                <number type="work" id="0" vanity="" prio="1">06211816203</number>
+                <number type="work" id="0" vanity="" prio="1">063315330</number>
+                <number type="work" id="0" vanity="" prio="1">06332500480</number>
+                <number type="work" id="0" vanity="" prio="1">0633291259000</number>
+                <number type="work" id="0" vanity="" prio="1">0635874547</number>
+                <number type="work" id="0" vanity="" prio="1">06359845135</number>
+                <number type="work" id="0" vanity="" prio="1">0651395012</number>
+                <number type="work" id="0" vanity="" prio="1">06519605209</number>
+                <number type="work" id="0" vanity="" prio="1">067212365787</number>
+                <number type="work" id="0" vanity="" prio="1">069062733</number>
+                <number type="work" id="0" vanity="" prio="1">06920436149</number>
+                <number type="work" id="0" vanity="" prio="1">06927236121</number>
+                <number type="work" id="0" vanity="" prio="1">069425831</number>
+                <number type="work" id="0" vanity="" prio="1">0695612749</number>
+                <number type="work" id="0" vanity="" prio="1">06987006954</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>26</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Inland - 07...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">070739144444</number>
+                <number type="work" id="0" vanity="" prio="1">071120703144</number>
+                <number type="work" id="0" vanity="" prio="1">071120703560</number>
+                <number type="work" id="0" vanity="" prio="1">071120703568</number>
+                <number type="work" id="0" vanity="" prio="1">071149065941</number>
+                <number type="work" id="0" vanity="" prio="1">07117490814</number>
+                <number type="work" id="0" vanity="" prio="1">071189989120</number>
+                <number type="work" id="0" vanity="" prio="1">0715929641</number>
+                <number type="work" id="0" vanity="" prio="1">072150953300</number>
+                <number type="work" id="0" vanity="" prio="1">07816396101</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>27</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Inland - 08...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">080020033407</number>
+                <number type="work" id="0" vanity="" prio="1">08002007591</number>
+                <number type="work" id="0" vanity="" prio="1">08003304373</number>
+                <number type="work" id="0" vanity="" prio="1">08005459953</number>
+                <number type="work" id="0" vanity="" prio="1">082150749100</number>
+                <number type="work" id="0" vanity="" prio="1">0821802472</number>
+                <number type="work" id="0" vanity="" prio="1">08221274070</number>
+                <number type="work" id="0" vanity="" prio="1">08221274071</number>
+                <number type="work" id="0" vanity="" prio="1">085192299955</number>
+                <number type="work" id="0" vanity="" prio="1">086546849108</number>
+                <number type="work" id="0" vanity="" prio="1">0865477020</number>
+                <number type="work" id="0" vanity="" prio="1">089125031511</number>
+                <number type="work" id="0" vanity="" prio="1">089201959996</number>
+                <number type="work" id="0" vanity="" prio="1">089301569</number>
+                <number type="work" id="0" vanity="" prio="1">0893154891</number>
+                <number type="work" id="0" vanity="" prio="1">089551443</number>
+                <number type="work" id="0" vanity="" prio="1">0895566220</number>
+                <number type="work" id="0" vanity="" prio="1">089794613258</number>
+                <number type="work" id="0" vanity="" prio="1">08999727961</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>28</uniqueid>
+        </contact>
+        <contact>
+            <category>0</category>
+            <person>
+                <realName>Inland - 09...</realName>
+            </person>
+            <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">091147713982</number>
+                <number type="work" id="0" vanity="" prio="1">091188185962</number>
+                <number type="work" id="0" vanity="" prio="1">0952354241</number>
+                <number type="work" id="0" vanity="" prio="1">0952354242</number>
+            </telephony>
+            <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
+            <uniqueid>29</uniqueid>
+        </contact>
+    </phonebook>
+</phonebooks>
