@@ -3,12 +3,12 @@
 In diesem Repository möchte ich Rufnummern aus dem In- und Ausland sammeln, die für Rufsperren genutzt werden können.
 Dabei ist es egal, ob man diese Rufnummern über seinen Router, seine Telefonanlage oder in seinem Smartphone sperrt.
 Die Rufnummern habe ich dabei in einzelnen Textdateien gepackt und in unterschiedliche Rufnummernbereiche getrennt.
-Außerdem stelle ich einen Nexcloud (vCard) und einen Fritz!Box (XML) Export zu Verfügung.
+Außerdem stelle ich einen Nextcloud (vCard) und einen Fritz!Box (XML) Export zu Verfügung.
 
 ## License
 MIT License
 
-Copyright (c) 2022 [Tobias 'dontobi' Schug]
+Copyright (c) 2021-2023 [Tobias 'dontobi' Schug]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
