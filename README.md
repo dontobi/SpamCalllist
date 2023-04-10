@@ -3,7 +3,7 @@
 In diesem Repository möchte ich Rufnummern aus dem In- und Ausland sammeln, die für Rufsperren genutzt werden können.
 Dabei ist es egal, ob man diese Rufnummern über seinen Router, seine Telefonanlage oder in seinem Smartphone sperrt.
 Die Rufnummern habe ich dabei in einzelnen Textdateien gepackt und in unterschiedliche Rufnummernbereiche getrennt.
-Außerdem stelle ich einen Nexcloud (vCard) und einen Fritz!Box (XML) Export zu VSerfügung.
+Außerdem stelle ich einen Nexcloud (vCard) und einen Fritz!Box (XML) Export zu Verfügung.
 
 ## License
 MIT License
