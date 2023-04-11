@@ -3,7 +3,7 @@
 In diesem Repository möchte ich Rufnummern aus dem In- und Ausland sammeln, die für Rufsperren genutzt werden können.
 Dabei ist es egal, ob man diese Rufnummern über seinen Router, seine Telefonanlage oder in seinem Smartphone sperrt.
 Die Rufnummern habe ich dabei in einzelnen Textdateien gepackt und in unterschiedliche Rufnummernbereiche getrennt.
-Außerdem stelle ich einen Nextcloud (vCard) und einen Fritz!Box (XML) Export zu Verfügung.
+Außerdem stelle ich einen <a href="https://raw.githubusercontent.com/dontobi/SpamCalllist/main/export/nextcloud_export.vcf">NextCloud</a> (vCard) und einen <a href="https://raw.githubusercontent.com/dontobi/SpamCalllist/main/export/fritzbox_export.xml">Fritz!Box</a> (XML) Export zu Verfügung.
 
 ## License
 MIT License
