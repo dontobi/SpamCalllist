@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <phonebooks>
-    <phonebook name="Test">
+    <phonebook name="Rufsperren">
         <contact>
             <category>0</category>
             <person>
@@ -69,9 +69,14 @@
                 <number type="work" id="0" vanity="" prio="1">+41215459849</number>
                 <number type="work" id="0" vanity="" prio="1">+420234280629</number>
                 <number type="work" id="0" vanity="" prio="1">+4322464434</number>
+                <number type="work" id="0" vanity="" prio="1">+4338614398</number>
                 <number type="work" id="0" vanity="" prio="1">+4351258078217</number>
+                <number type="work" id="0" vanity="" prio="1">+436507531704</number>
                 <number type="work" id="0" vanity="" prio="1">+43661331784</number>
+                <number type="work" id="0" vanity="" prio="1">+436645208049</number>
                 <number type="work" id="0" vanity="" prio="1">+436769182388</number>
+                <number type="work" id="0" vanity="" prio="1">+4372126598</number>
+                <number type="work" id="0" vanity="" prio="1">+4372307354</number>
                 <number type="work" id="0" vanity="" prio="1">+441689814399</number>
                 <number type="work" id="0" vanity="" prio="1">+442038073907</number>
                 <number type="work" id="0" vanity="" prio="1">+442073407130</number>
@@ -129,6 +134,7 @@
                 <number type="work" id="0" vanity="" prio="1">015735980683</number>
                 <number type="work" id="0" vanity="" prio="1">015777667153</number>
                 <number type="work" id="0" vanity="" prio="1">01633404699</number>
+                <number type="work" id="0" vanity="" prio="1">01637875622</number>
                 <number type="work" id="0" vanity="" prio="1">01639560410</number>
                 <number type="work" id="0" vanity="" prio="1">01723296714</number>
                 <number type="work" id="0" vanity="" prio="1">01724148371</number>
@@ -174,6 +180,7 @@
                 <number type="work" id="0" vanity="" prio="1">021154590836</number>
                 <number type="work" id="0" vanity="" prio="1">02116742031</number>
                 <number type="work" id="0" vanity="" prio="1">02117559990</number>
+                <number type="work" id="0" vanity="" prio="1">021332463886</number>
                 <number type="work" id="0" vanity="" prio="1">021332463890</number>
                 <number type="work" id="0" vanity="" prio="1">0220152070</number>
                 <number type="work" id="0" vanity="" prio="1">022165088561</number>
@@ -233,6 +240,7 @@
             <telephony nid="1">
                 <number type="work" id="0" vanity="" prio="1">04013374151</number>
                 <number type="work" id="0" vanity="" prio="1">0402541368</number>
+                <number type="work" id="0" vanity="" prio="1">040299992000</number>
                 <number type="work" id="0" vanity="" prio="1">040299992020</number>
                 <number type="work" id="0" vanity="" prio="1">04033465931</number>
                 <number type="work" id="0" vanity="" prio="1">040431970794</number>
@@ -290,6 +298,7 @@
                 <number type="work" id="0" vanity="" prio="1">069062733</number>
                 <number type="work" id="0" vanity="" prio="1">06920436149</number>
                 <number type="work" id="0" vanity="" prio="1">06927236121</number>
+                <number type="work" id="0" vanity="" prio="1">06929917782</number>
                 <number type="work" id="0" vanity="" prio="1">069425831</number>
                 <number type="work" id="0" vanity="" prio="1">0695612749</number>
                 <number type="work" id="0" vanity="" prio="1">06987006954</number>
