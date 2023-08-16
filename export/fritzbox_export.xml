@@ -88,6 +88,7 @@
             </person>
             <telephony nid="1">
                 <number type="work" id="0" vanity="" prio="1">+41215459849</number>
+                <number type="work" id="0" vanity="" prio="1">+41415207830</number>
                 <number type="work" id="0" vanity="" prio="1">+420234280629</number>
                 <number type="work" id="0" vanity="" prio="1">+431890852515</number>
                 <number type="work" id="0" vanity="" prio="1">+4322464434</number>
@@ -241,6 +242,7 @@
                 <number type="work" id="0" vanity="" prio="1">022165088561</number>
                 <number type="work" id="0" vanity="" prio="1">022166951483</number>
                 <number type="work" id="0" vanity="" prio="1">022166951484</number>
+                <number type="work" id="0" vanity="" prio="1">022194899072</number>
                 <number type="work" id="0" vanity="" prio="1">02219759860</number>
                 <number type="work" id="0" vanity="" prio="1">0228338160</number>
                 <number type="work" id="0" vanity="" prio="1">02283822567</number>
@@ -388,6 +390,7 @@
                 <number type="work" id="0" vanity="" prio="1">071149065941</number>
                 <number type="work" id="0" vanity="" prio="1">07117490814</number>
                 <number type="work" id="0" vanity="" prio="1">071189989120</number>
+                <number type="work" id="0" vanity="" prio="1">071192539544</number>
                 <number type="work" id="0" vanity="" prio="1">071196884113</number>
                 <number type="work" id="0" vanity="" prio="1">071313829160</number>
                 <number type="work" id="0" vanity="" prio="1">0715929641</number>
@@ -408,6 +411,7 @@
             <telephony nid="1">
                 <number type="work" id="0" vanity="" prio="1">080020033407</number>
                 <number type="work" id="0" vanity="" prio="1">08002007591</number>
+                <number type="work" id="0" vanity="" prio="1">08003200800</number>
                 <number type="work" id="0" vanity="" prio="1">08003304373</number>
                 <number type="work" id="0" vanity="" prio="1">0800505189001</number>
                 <number type="work" id="0" vanity="" prio="1">08005227766</number>
