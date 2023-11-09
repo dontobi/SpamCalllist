@@ -136,6 +136,10 @@
                 <number type="work" id="0" vanity="" prio="1">+442038073907</number>
                 <number type="work" id="0" vanity="" prio="1">+442073407130</number>
                 <number type="work" id="0" vanity="" prio="1">+442086389073</number>
+                <number type="work" id="0" vanity="" prio="1">+447450767011</number>
+                <number type="work" id="0" vanity="" prio="1">+447518494730</number>
+                <number type="work" id="0" vanity="" prio="1">+447707525790</number>
+                <number type="work" id="0" vanity="" prio="1">+447707527817</number>
                 <number type="work" id="0" vanity="" prio="1">+447798956415</number>
                 <number type="work" id="0" vanity="" prio="1">+447868726050</number>
                 <number type="work" id="0" vanity="" prio="1">+447873024449</number>
@@ -257,6 +261,7 @@
                 <number type="work" id="0" vanity="" prio="1">0241927864</number>
                 <number type="work" id="0" vanity="" prio="1">024195230101</number>
                 <number type="work" id="0" vanity="" prio="1">02501802420</number>
+                <number type="work" id="0" vanity="" prio="1">026309613999</number>
             </telephony>
             <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
             <uniqueid>22</uniqueid>
@@ -276,6 +281,7 @@
                 <number type="work" id="0" vanity="" prio="1">03023599251</number>
                 <number type="work" id="0" vanity="" prio="1">03025545764</number>
                 <number type="work" id="0" vanity="" prio="1">03028387756</number>
+                <number type="work" id="0" vanity="" prio="1">03046690013</number>
                 <number type="work" id="0" vanity="" prio="1">030577003105</number>
                 <number type="work" id="0" vanity="" prio="1">030700107206</number>
                 <number type="work" id="0" vanity="" prio="1">030767582729</number>
@@ -452,6 +458,7 @@
             </person>
             <telephony nid="1">
                 <number type="work" id="0" vanity="" prio="1">091147713982</number>
+                <number type="work" id="0" vanity="" prio="1">09115205999504</number>
                 <number type="work" id="0" vanity="" prio="1">0911815093134</number>
                 <number type="work" id="0" vanity="" prio="1">0911815093146</number>
                 <number type="work" id="0" vanity="" prio="1">091188185962</number>
