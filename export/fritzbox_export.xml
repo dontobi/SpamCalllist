@@ -20,6 +20,10 @@
             </person>
             <telephony nid="1">
                 <number type="work" id="0" vanity="" prio="1">+22379171306</number>
+                <number type="work" id="0" vanity="" prio="1">+22879481825</number>
+                <number type="work" id="0" vanity="" prio="1">+243814975304</number>
+                <number type="work" id="0" vanity="" prio="1">+249909866115</number>
+                <number type="work" id="0" vanity="" prio="1">+27610991651</number>
                 <number type="work" id="0" vanity="" prio="1">+27712838258</number>
             </telephony>
             <services /><setup><ringTone /></setup><mod_time>1461756227</mod_time>
@@ -34,6 +38,7 @@
                 <number type="work" id="0" vanity="" prio="1">+302809797804</number>
                 <number type="work" id="0" vanity="" prio="1">+302820487834</number>
                 <number type="work" id="0" vanity="" prio="1">+302843371996</number>
+                <number type="work" id="0" vanity="" prio="1">+31111793182</number>
                 <number type="work" id="0" vanity="" prio="1">+31181793183</number>
                 <number type="work" id="0" vanity="" prio="1">+3185125632</number>
                 <number type="work" id="0" vanity="" prio="1">+318512563295</number>
@@ -78,6 +83,7 @@
                 <number type="work" id="0" vanity="" prio="1">+35635874547</number>
                 <number type="work" id="0" vanity="" prio="1">+35725328935</number>
                 <number type="work" id="0" vanity="" prio="1">+35924942791</number>
+                <number type="work" id="0" vanity="" prio="1">+371761197230</number>
                 <number type="work" id="0" vanity="" prio="1">+39041714653</number>
                 <number type="work" id="0" vanity="" prio="1">+39081994846</number>
                 <number type="work" id="0" vanity="" prio="1">+393343611334</number>
@@ -166,6 +172,8 @@
                 <realName>Ausland - +6...</realName>
             </person>
             <telephony nid="1">
+                <number type="work" id="0" vanity="" prio="1">+6282299285919</number>
+                <number type="work" id="0" vanity="" prio="1">+62856585945758</number>
                 <number type="work" id="0" vanity="" prio="1">+62878497385315</number>
                 <number type="work" id="0" vanity="" prio="1">+639538217566</number>
                 <number type="work" id="0" vanity="" prio="1">+6768755316</number>
@@ -180,7 +188,9 @@
             </person>
             <telephony nid="1">
                 <number type="work" id="0" vanity="" prio="1">+917065081610</number>
+                <number type="work" id="0" vanity="" prio="1">+917230913949</number>
                 <number type="work" id="0" vanity="" prio="1">+917838705479</number>
+                <number type="work" id="0" vanity="" prio="1">+917869063937</number>
                 <number type="work" id="0" vanity="" prio="1">+918279524253</number>
                 <number type="work" id="0" vanity="" prio="1">+919355616335</number>
                 <number type="work" id="0" vanity="" prio="1">+96892612742</number>
