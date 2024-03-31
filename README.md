@@ -1,5 +1,7 @@
-## Spam Calllist
+## Repositiry archiviert
+Ich habe mich dazu entschieden, diese Repository nicht mehr weiter zu pflegen, da es eine (aus meiner Sicht) bessere Lösung gibt - <a href="https://phoneblock.net">PhoneBlock</a>. Alle Infos zu PhoneBlock habe ich in einem <a href="https://www.myhome.zone/phoneblock-spam-anrufe-blocken/">Beitrag auf meinem Blog</a> veröffentlicht.
 
+## Spam Calllist
 In diesem Repository möchte ich Rufnummern aus dem In- und Ausland sammeln, die für Rufsperren genutzt werden können.
 Dabei ist es egal, ob man diese Rufnummern über seinen Router, seine Telefonanlage oder in seinem Smartphone sperrt.
 Die Rufnummern habe ich dabei in einzelnen Textdateien gepackt und in unterschiedliche Rufnummernbereiche getrennt.
